@@ -1,0 +1,42 @@
+header{
+    background-color: #be1111;
+}
+
+a{
+    font-size: 20px;
+}
+
+.areaLista{
+    background-color: aquamarine;
+    text-align: center;
+}
+
+.btnEnviar{
+    border: 1px solid blue;
+    border-radius: 5px;
+    background-color: #be1111;
+    color: white;
+    padding: 5px 10px;
+    font-size: 700;
+    box-shadow: 2px 2px;
+}
+
+.btnEnviar:hover{
+    background-color: aliceblue;
+    color: #be1111;
+}
+
+.btnLimpar{
+    border: 1px solid blue;
+    border-radius: 5px;
+    background-color: #be1111;
+    color: white;
+    padding: 5px 10px;
+    font-size: 700;
+    box-shadow: 2px 2px;
+}
+
+.btnLimpar:hover{
+    background-color: aliceblue;
+    color: #be1111;
+}
